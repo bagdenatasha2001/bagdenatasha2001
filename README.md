@@ -46,7 +46,7 @@
   <a href="mailto:natashabagde692@gmai.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
   </a>
-     <a href="linkedin.com/in/natasha-bagde-250671234">
+     <a href="https://www.linkedin.com/in/natasha-bagde-250671234">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   
   
