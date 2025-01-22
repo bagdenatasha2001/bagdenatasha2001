@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Natasha Bagde </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="600" height="500"/>
+  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="600" height="400"/>
 </p>
 
 ---
