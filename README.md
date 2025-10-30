@@ -1,4 +1,4 @@
-![logo](https://github.com/bagdenatasha2001/bagdenatasha2001/blob/main/Untitled%20design.png)
+
 <h1 align="center">Hi there! 👋 I'm Natasha Bagde </h1>
 
 <!-- <p align="center">
